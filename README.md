@@ -1,4 +1,4 @@
-# Lego Games save file checksum update
+# Lego Games save file checksum updater
 This project is a fork of LSWSCU by Polly May, originally available at:
 https://github.com/pollyevamay/LSWSCU.
 
