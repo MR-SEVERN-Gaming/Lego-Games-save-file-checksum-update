@@ -45,6 +45,8 @@ ALWAYS MAKE BACKUPS OF YOUR SAVE FILES. YOU TAKE RESPONSIBILITY FOR WHAT HAPPENS
   - Windows: C:\Users<Windows Username>\AppData\Roaming\LucasArts
   - Mac: ~/Library/Application Support/Feral Interactive
 
+I can't 100% confirm the directories for Mac since I don't currently have a Mac.
+
 # Credits
 This project is based on LSWSCU by Polly May.
 The original concept, structure, and checksum logic come from that project, with extensions and adjustments added in this fork.
